@@ -1,5 +1,14 @@
 # @medusajs/order
 
+## 2.22.1
+
+### Patch Changes
+
+- [#17471](https://github.com/medusajs/medusa/pull/17471) [`0b533907ac11d9cb3a80355ae7dee6ac51cba150`](https://github.com/medusajs/medusa/commit/0b533907ac11d9cb3a80355ae7dee6ac51cba150) Thanks [@medusa-os-bot](https://github.com/apps/medusa-os-bot)! - fix(order): fix count query for paginated cross-module filters on orders
+
+- Updated dependencies []:
+  - @medusajs/framework@2.22.1
+
 ## 2.22.0
 
 ### Minor Changes
